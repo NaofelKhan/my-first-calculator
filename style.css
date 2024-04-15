@@ -7,13 +7,14 @@
     border-radius: 20px;
 }
 
-.display{
+#display{
     width: 92%;
     padding: 20px;
     background-color: rgb(73, 73, 73);
     border: none;
-    text-align: right;
+    text-align: left;
     font-size: 5rem;
+    color: white;
 }
 
 .con-but{
